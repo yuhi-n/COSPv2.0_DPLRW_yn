@@ -3,3 +3,7 @@
 **.mod
 driver/run/cosp2_test
 driver/data/outputs/UKMO/*.nc
+.DS_Store
+driver/data/EarthCARE
+driver/data/MIROC*
+driver/data/*.tar.xz
